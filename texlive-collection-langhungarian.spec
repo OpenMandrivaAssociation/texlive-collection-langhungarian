@@ -33,3 +33,12 @@ Support for typesetting Hungarian.
 %build
 
 %install
+
+
+%changelog
+* Fri Feb 24 2012 Paulo Andrade <pcpa@mandriva.com.br> 1:20120224-1
++ Revision: 780419
+- Update to latest release.
+- Import texlive-collection-langhungarian
+- Import texlive-collection-langhungarian
+
